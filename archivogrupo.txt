@@ -1,10 +1,6 @@
 Hola mundo somos el equipo 6:
-<<<<<<< HEAD
-Ignacio Morales
-=======
 Ignacio Morales 
 Jett Puga
 Fabian Ibanez
-Fabian Torres
 Gonzalo Pavez
->>>>>>> 65d439297acc2432efce78ec681f9733ff50025e
+Fabián Torres
